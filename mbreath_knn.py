@@ -1,3 +1,7 @@
+#Sir, the provided distance dunction wasn't very clear but I hae applied the formulae as the max/min of the mod of training data points with the input i.e the testing data points in order to find the accuracy. 
+#accuracy has been returned by the knn function by the name vote_result.
+#accuracy for the given distance function is 73% while for the euclidean_distance is 93%.
+
 import numpy as np
 from collections import Counter
 import pandas as pd
